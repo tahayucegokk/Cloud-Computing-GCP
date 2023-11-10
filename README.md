@@ -33,4 +33,6 @@ Formerly, SaaS, PaaS, and IaaS were the three main models of cloud computing, an
 
 # Cloud vs Data Center
 
+Many similarities exist between the cloud and traditional data centers – they both play fundamental roles in supporting IT operations and delivering computing resources. However, the difference lies in how these commonalities are implemented and managed. Prior to undertaking any cloud migration project, organizations need to understand how to translate their data center resources into cloud resources.
+
 <img src="https://github.com/tahayucegokk/Cloud-Computing-GCP/assets/77504139/b5770abc-8b75-48cf-8280-83449e2bba2b" alt="Cloud vs Data Center" style="width:600px;"/>
