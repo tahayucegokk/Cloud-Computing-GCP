@@ -18,7 +18,7 @@ Users access cloud services either through a browser or through an app, connecti
 
 The resources available in the cloud are known as "services," since they are actively managed by a cloud provider. Cloud services include infrastructure, applications, development tools, and data storage, among other products. These services are sorted into several different categories, or service models.
 
-![saas-paas-iaas-diagram](https://github.com/tahayucegokk/Cloud-Computing-GCP/assets/77504139/14272d3b-2ff8-4d9e-98f0-aa4d8d1dc25d)
+<img src="https://github.com/tahayucegokk/Cloud-Computing-GCP/assets/77504139/14272d3b-2ff8-4d9e-98f0-aa4d8d1dc25d" alt="Cloud vs Data Center" style="width:600px;"/>
 
 ## Cloud vs Data Center
 
