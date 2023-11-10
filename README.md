@@ -20,6 +20,17 @@ The resources available in the cloud are known as "services," since they are act
 
 <img src="https://github.com/tahayucegokk/Cloud-Computing-GCP/assets/77504139/14272d3b-2ff8-4d9e-98f0-aa4d8d1dc25d" alt="Cloud vs Data Center" style="width:600px;"/>
 
+# Software-as-a-Service (SaaS): 
+Instead of users installing an application on their device, SaaS applications are hosted on cloud servers, and users access them over the Internet. SaaS is like renting a house: the landlord maintains the house, but the tenant mostly gets to use it as if they owned it. Examples of SaaS applications include Netflix, Zoom, and Slack.
+
+# Platform-as-a-Service (PaaS):
+In this model, companies don't pay for hosted applications; instead they pay for the things they need to build their own applications. PaaS vendors offer everything necessary for building an application, including development tools, infrastructure, and operating systems, over the Internet. PaaS can be compared to renting all the tools and equipment necessary for building a house, instead of renting the house itself. PaaS examples include Heroku and Microsoft Azure.
+
+# Infrastructure-as-a-Service (IaaS): 
+In this model, a company rents the servers and storage they need from a cloud provider. They then use that cloud infrastructure to build their applications. IaaS is like a company leasing a plot of land on which they can build whatever they want — but they need to provide their own building equipment and materials. IaaS providers include DigitalOcean, Google Compute Engine, and OpenStack.
+
+Formerly, SaaS, PaaS, and IaaS were the three main models of cloud computing, and essentially all cloud services fit into one of these categories. However, in recent years a fourth model has emerged
+
 ## Cloud vs Data Center
 
 <img src="https://github.com/tahayucegokk/Cloud-Computing-GCP/assets/77504139/b5770abc-8b75-48cf-8280-83449e2bba2b" alt="Cloud vs Data Center" style="width:600px;"/>
