@@ -1,0 +1,30 @@
+-Sanal Makine Nedir?
+
+-- fiziksel bir bilgisayar veya sunucu üzerinde sanal bir ortam oluşturarak bir veya daha fazla sanal işletim sistemini çalıştırmak için kullanılan bir yazılım veya donanım tabanlı bir sistemdir.
+
+-Sanal Makine Nasıl Çalışır: 
+-- Hypervisor : Sanal makinelerin oluşturulmasını, yönetilmesini ve kaynakların dağıtılmasını sağlayan temel bileşendir
+-Tip 1 :  (Bare Metal Sanallaştırma) yazılımı doğrudan fiziksel donanım üzerinde çalıştırır // Microsoft Hyper-V
+-Tip 2 : (Hosted Sanallaştırma) işletim sistemi üzerinde sanallaştırma yazılımı çalıştırılır // VM-Box
+-- Container ile farkı: 
+- VM: Host Operating System -> Hypervisor -> Guest OS -> App
+- Container: Host Operating System -> Support files runtime -> App...
+
+-- Sanal Makinelerin Amacı:
+- tek bir fiziksel bilgisayarda çalışarak çoklu işletim sistemi kullanma olanağı sağlar. Böylece fiziksel alan, zaman, yönetim, donanım ve yazılım masraflarından tasarruf sağlar. Eski uygulamaların desteklenmesi sayesinde yeni bir işletim sistemine geçme maliyeti ortadan kalkar.
+
+--Aptitude , Apt, dpkg
+
+- Apt: "apt" komut satırı tabanlı bir araçtır ve genellikle terminal üzerinden kullanılır.
++ "apt" genellikle daha basit bir komut yapısına sahiptir ve doğrudan komutlarla çalışır.
+- Aptitude: "apt" ile benzer temel işlevlere sahiptir, ancak daha gelişmiş bir paket yönetim aracıdır. Bağımlılık çözme, paketleri izleme, önerilen veya önceden bağımlılıkları kontrol etme gibi ek özelliklere sahiptir.
++ "aptitude" ise interaktif bir arayüz sunar ve kullanıcıya daha fazla seçenek ve kontrol imkanı tanır. Bu nedenle, bazı kullanıcılar "aptitude"ı kullanmayı tercih edebilir çünkü daha kapsamlı bir kontrol sağlar.
+- dpkb: 
+dpkg daha düşük seviyede çalışır ve genellikle sistem yöneticileri ve geliştiriciler tarafından tercih edilir.
+dpkg doğrudan paket dosyaları üzerinde işlem yapar ve genellikle kullanıcıya daha fazla kontrol sağlar.
+
+
+--AppArmor:
+AppArmor, Linux çekirdeğine entegre edilmiş bir güvenlik altyapısıdır ve sistem yöneticilerine daha iyi bir güvenlik politikası oluşturmak ve uygulamaların izinlerini daha iyi kontrol etmek için bir araç sunar. Bu sayede, potansiyel güvenlik açıklarını azaltabilir
+(dosyalar, klasörler, ağ kaynakları vb.)
+AppArmor, özellikle Ubuntu ve bazı diğer dağıtımlarda kullanılan bir güvenlik modülüdür.
